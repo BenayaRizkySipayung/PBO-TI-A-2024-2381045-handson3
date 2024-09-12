@@ -13,6 +13,6 @@ public class DoWhileLoop {
             }
             System.out.println("Nilai i : " + i);
             i++;
-        }while (i <= 20);
+        } while (i <= 20);
     }
 }
